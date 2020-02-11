@@ -39,7 +39,7 @@
             "STARTUPTYPE": 1
         },
         "LogEventExtensionSample": {
-            "ENABLED": true,
+            "ENABLED": false,
             "NAME": "LogEventExtensionSample",
             "PATH": "..\\..\\LogEventExtensionSample\\bin\\Debug\\",
             "REQUIRED": false,
@@ -690,6 +690,7 @@
         },
         "ADS.RuntimePorts": {
             "ACCESS": 3,
+            "CUSTOMERDATA": "",
             "DOMAIN": "ADS",
             "HIDDEN": true,
             "MAPPING": "RuntimePorts",
@@ -1186,6 +1187,7 @@
                             "default": "MergeRefs",
                             "enum": [
                                 "AddRefs",
+                                "AddAllRefs",
                                 "MergeRefs",
                                 "None"
                             ],
@@ -1227,6 +1229,7 @@
         },
         "Heartbeat": {
             "ACCESS": 3,
+            "CUSTOMERDATA": "",
             "DOMAIN": "TcHmiSrv",
             "HIDDEN": true,
             "MAPPING": "Heartbeat",
@@ -1263,6 +1266,7 @@
         },
         "ListActiveSessions": {
             "ACCESS": 3,
+            "CUSTOMERDATA": "",
             "DOMAIN": "TcHmiSrv",
             "HIDDEN": true,
             "MAPPING": "ListActiveSessions",
@@ -1562,6 +1566,7 @@
         },
         "LogEventExtensionSample.Config": {
             "ACCESS": 0,
+            "CUSTOMERDATA": "",
             "DOMAIN": "LogEventExtensionSample",
             "HIDDEN": true,
             "MAPPING": "Config",
@@ -1571,6 +1576,7 @@
         },
         "LogEventExtensionSample.LogEvent": {
             "ACCESS": 3,
+            "CUSTOMERDATA": "",
             "DOMAIN": "LogEventExtensionSample",
             "HIDDEN": false,
             "MAPPING": "LogEvent",
@@ -1582,6 +1588,7 @@
         },
         "LogEventExtensionSample.LogParameterChangeEvent": {
             "ACCESS": 3,
+            "CUSTOMERDATA": "",
             "DOMAIN": "LogEventExtensionSample",
             "HIDDEN": false,
             "MAPPING": "LogParameterChangeEvent",
@@ -2704,6 +2711,6 @@
     "VIDEOSEGMENTSIZE": 1048576,
     "VIRTUALDIRECTORIES": {
         "/": "..\\..\\LogEventExtensionTest",
-        "/framework": "..\\..\\..\\..\\TwinCAT\\Functions\\TE2000-HMI-Engineering\\Infrastructure\\TcHmiFramework\\1.10.1336.0"
+        "/framework": "..\\..\\..\\..\\..\\TwinCAT\\Functions\\TE2000-HMI-Engineering\\Infrastructure\\TcHmiFramework\\1.10.1336.0"
     }
 }

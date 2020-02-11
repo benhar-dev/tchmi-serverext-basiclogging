@@ -15,7 +15,7 @@
     <HmiFrameworkVersion>Latest</HmiFrameworkVersion>
     <HmiCommunicationServerPort>3001</HmiCommunicationServerPort>
     <HmiInitial>1.10.1336.113</HmiInitial>
-    <HmiRecent>1.10.1336.203</HmiRecent>
+    <HmiRecent>1.10.1336.372</HmiRecent>
   </PropertyGroup>
   <PropertyGroup>
     <TwinCATHmi_Tasks>$(TcHmiDirectory)\MSBuild\Beckhoff.TwinCAT.HMI.tasks</TwinCATHmi_Tasks>
@@ -330,7 +330,8 @@
     <TcHmiReference Include="18a05103-d9ca-46a7-b405-3d5c3c82ec8d">
       <Type>SrvRefSolution</Type>
       <RelativePath>LogEventExtensionSample/LogEventExtensionSample.csproj</RelativePath>
-      <Domain></Domain>
+      <Domain>
+      </Domain>
     </TcHmiReference>
   </ItemGroup>
 </Project>

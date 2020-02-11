@@ -24,9 +24,9 @@ In this instance, calls are made to added symbol changes to the internal event l
 ## Versions
 This project uses the following
 
-* Visual studio 2013/15/17 Community or Professional
-* TwinCAT 3.1.4024.0
-* TwinCAT HMI 1.10.1336.340
+* Visual studio 17 Community or Professional
+* TwinCAT 3.1.4024.7
+* TwinCAT HMI 1.10.1336.372
 
 ## Getting started
 

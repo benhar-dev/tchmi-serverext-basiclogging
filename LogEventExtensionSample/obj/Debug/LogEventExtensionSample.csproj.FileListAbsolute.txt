@@ -9,3 +9,16 @@ C:\dev\LogEventExtension\LogEventExtensionSample\bin\Debug\TcHmiSrvExtNet.xml
 C:\dev\LogEventExtension\LogEventExtensionSample\obj\Debug\LogEventExtensionSample.dll
 C:\dev\LogEventExtension\LogEventExtensionSample\obj\Debug\LogEventExtensionSample.pdb
 C:\dev\LogEventExtension\LogEventExtensionSample\obj\Debug\LogEventExtensionSample.csprojResolveAssemblyReference.cache
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\bin\Debug\LogEventExtensionSample.dll
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\bin\Debug\LogEventExtensionSample.pdb
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\bin\Debug\TcHmiSrvExtNet.dll
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\bin\Debug\TcHmiSrvExtNet.DynamicSymbols.dll
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\bin\Debug\TcHmiSrvExtNet.Management.dll
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\bin\Debug\TcHmiSrvExtNet.Versioning.dll
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\bin\Debug\System.Synchronization.dll
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\bin\Debug\TcHmiSrvExtNet.xml
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\obj\Debug\LogEventExtensionSample.csprojAssemblyReference.cache
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\obj\Debug\LogEventExtensionSample.csproj.CoreCompileInputs.cache
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\obj\Debug\LogEventExtensionSample.csproj.CopyComplete
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\obj\Debug\LogEventExtensionSample.dll
+C:\dev\benhar-dev\tchmi-serverext-basiclogging\LogEventExtensionSample\obj\Debug\LogEventExtensionSample.pdb
